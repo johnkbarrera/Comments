@@ -75,7 +75,7 @@ La eficiencia en el gasto público y la atención a necesidades urgentes no son 
 
 ## Cómo citar
 
-> Barrera, J.K. (2025). *Priorización del Gasto Público: Eficiencia y Enfoque en Necesidades Urgentes*. Repositorio técnico.
+> Barrera, J.K. (2025). *Priorización del Gasto Público: Eficiencia y Enfoque en Necesidades Urgentes*. Repositorio borrador.
 
 ## Licencia
 
